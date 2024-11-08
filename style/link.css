@@ -1,0 +1,25 @@
+button{
+    width: 100px;
+    height: 23px;
+    border-radius: 0%;
+   background-color: #6d6070;
+   cursor: pointer;
+   box-shadow: 4px 4px 0px #000;
+   transition: transform 200ms;
+}
+button:hover{
+    transform: scale(1.05);
+}
+nav{
+    color: rgb(31, 31, 31);
+  }
+  a{
+    color: rgb(0, 0, 0);
+    
+  }
+  h5{
+    font-size: 100%;
+  }
+  nav ul li{
+    list-style: none;
+  }

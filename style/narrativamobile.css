@@ -1,0 +1,161 @@
+@media screen and (max-width: 1270px) {
+    header h1{
+        font-size: 150%;
+    }
+    header section#titulo h2{
+        font-size: 140%;
+    }
+    header section#titulo h3{
+        font-size: 120%;
+    }
+    header section#titulo h4{
+        font-size: 90%;
+    }
+    header section#titulo p{
+        font-size: 90%;
+    }
+    header section#titulo div img{
+        width: 300px;
+    }
+}
+@media screen and (max-width: 952px) {
+    header h1{
+        font-size: 130%;
+    }
+    header section#titulo h2{
+        font-size: 120%;
+    }
+    header section#titulo h3{
+        font-size: 100%;
+    }
+    header section#titulo h4{
+        font-size: 80%;
+    }
+    header section#titulo p{
+        font-size: 80%;
+    }
+    header section#titulo div img{
+        width: 280px;
+    }
+}
+@media screen and (max-width: 826px) {
+    header h1{
+        font-size: 105%;
+    }
+    header section#titulo h2{
+        font-size: 110%;
+    }
+    header section#titulo h3{
+        font-size: 90%;
+    }
+    header section#titulo h4{
+        font-size: 70%;
+    }
+    header section#titulo p{
+        font-size: 70%;
+    }
+    header section#titulo div img{
+        width: 260px;
+    }
+}
+@media screen and (max-width: 671px) {
+    header h1{
+        font-size: 90%;
+    }
+    header section#titulo h2{
+        font-size: 90%;
+    }
+    header section#titulo h3{
+        font-size: 70%;
+    }
+    header section#titulo h4{
+        font-size: 60%;
+    }
+    header section#titulo p{
+        font-size: 60%;
+    }
+    header section#titulo div img{
+        width: 210px;
+    }
+}
+@media screen and (max-width: 577px) {
+    header h1{
+        font-size: 80%;
+    }
+    header section#titulo h2{
+        font-size: 70%;
+    }
+    header section#titulo h3{
+        font-size: 50%;
+    }
+    header section#titulo h4{
+        font-size: 50%;
+    }
+    header section#titulo p{
+        font-size: 50%;
+    }
+    header section#titulo div img{
+        width: 190px;
+    }
+}
+@media screen and (max-width: 515px) {
+    header h1{
+        font-size: 70%;
+    }
+    header section#titulo h2{
+        font-size: 60%;
+    }
+    header section#titulo h3{
+        font-size: 40%;
+    }
+    header section#titulo h4{
+        font-size: 40%;
+    }
+    header section#titulo p{
+        font-size: 40%;
+    }
+    header section#titulo div img{
+        width: 140px;
+    }
+}
+@media screen and (max-width: 452px) {
+    header h1{
+        font-size: 60%;
+    }
+    header section#titulo h2{
+        font-size: 50%;
+    }
+    header section#titulo h3{
+        font-size: 20%;
+    }
+    header section#titulo h4{
+        font-size: 20%;
+    }
+    header section#titulo p{
+        font-size: 30%;
+    }
+    header section#titulo div img{
+        width: 100px;
+    }
+}
+@media screen and (max-width: 390px) {
+    header h1{
+        font-size: 50%;
+    }
+    header section#titulo h2{
+        font-size: 40%;
+    }
+    header section#titulo h3{
+        font-size: 20%;
+    }
+    header section#titulo h4{
+        font-size: 20%;
+    }
+    header section#titulo p{
+        font-size: 20%;
+    }
+    header section#titulo div img{
+        width: 80px;
+    }
+}
+
